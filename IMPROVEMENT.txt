@@ -1,0 +1,3 @@
+25 Mar 2018
+1. Menggunakan hash sha1 untuk semua password dan id table
+2. masa ganti sparepart dan lainnya diatur ulang

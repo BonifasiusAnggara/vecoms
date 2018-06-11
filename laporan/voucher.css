@@ -1,0 +1,74 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+	font-family:tahoma, 'sans-serif';
+}
+.batas{
+    padding: 3px;
+}
+#kop{
+    float: left;
+}
+.clear {
+	clear: both;
+}
+.header{
+    width: 400px;
+    text-align: center;
+    margin-left: 70px;
+}
+.header2{
+    width: 650px;
+    text-align: center;
+}
+.kop{
+	line-height:20px;
+	margin-top: 10px;
+}
+.kop h2{
+    font-size: 15px;
+    margin-top: 10px;
+}
+.kop h4{
+    font-size: 13px;   
+}
+table{
+	border-collapse:collapse;
+    margin-top: 10px;
+}
+.table{
+	border-collapse:collapse;
+}
+.table .head td{
+	background:#fff;	
+	text-align: center;
+	font-size: 14px;
+	font-weight:bold;
+}
+.table tr td{
+	border:1px solid #000;
+	padding:5px;
+	font-size:9px;
+}
+.tbl2{
+    margin-left: 10px;
+}
+#service {
+	border-collapse: collapse;
+}
+.ttd{
+    margin-left: 0px;
+    margin-top: 10px;
+}
+.ttd .head td{		
+	text-align:center;
+	font-size:1px;
+	font-weight:bold;
+}
+.ttd tr td{
+    border:0px solid #000;
+	padding:5px;
+	font-size:9px;
+}
